@@ -1,2 +1,2 @@
-# DSM_PROJECT_1
-First capstone project for Kedrus Academy
+## DSM PROJECT ONE (1) - LOAN PREDICTION PROJECT
+
